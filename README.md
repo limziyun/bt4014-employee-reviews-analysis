@@ -1,2 +1,2 @@
-# bt4014-employee-reviews-analysis
-Topic modelling for employee reviews
+# Topic modelling for employee reviews
+Analysed Amazon and Facebook employee reviews using LDA and Word2Vec
